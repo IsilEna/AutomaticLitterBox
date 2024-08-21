@@ -1,4 +1,4 @@
-# Automatic-Litter-Box
+# AutomaticLitterBox
 Hello,
 You can find me and my colleagues project down below.
 
